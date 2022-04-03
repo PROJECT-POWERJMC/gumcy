@@ -1,0 +1,115 @@
+body{
+	background-color: #014059;
+	text-align: center;
+	color: white;
+}
+
+.gumcy_1{
+	width: 400px;
+	height: 400px;
+	align: center;
+	position: relative;
+	left: 560px;
+	top: 30px;
+}
+
+
+.gumcy_2{
+	width: 400px;
+	height: 400px;
+	align: center;
+	position: relative;
+	left: 560px;
+	top: 30px;
+}
+
+
+.gumcy_3{
+	width: 400px;
+	height: 400px;
+	align: center;
+	position: relative;
+	left: 560px;
+	top: 30px;
+}
+
+
+.banner{
+	width: 600px;
+	height: 600px;
+	
+}
+
+.col1{
+	text-align: center;
+	padding-top: 100px;
+	
+}
+
+.col2{
+	text-align: center;
+	background-color: #014059;
+	
+}
+
+.banner-text{
+	font-family: 'Satisfy', cursive;
+	font-size: 2.7rem;
+	color: white;
+	position: absolute;
+	left: 710px;
+	top: 330px;
+	z-index: 2;
+	color: #ffb037;
+}
+
+.birth-text{
+	position: absolute;
+	font-size: 2rem;
+	font-family: 'Lobster', cursive;
+	left: 20px;
+	top: 1100px;
+}
+
+
+.birthday-message{
+	position: absolute;
+	font-family: 'Pacifico', cursive;
+	font-size: 1rem;
+	left: 20px;
+	top: 1230px;
+	width: 70%
+	text-align: left;
+}
+
+.birthday-foot{
+	position: absolute;
+	right: 20px;
+	top: 1340px;
+	font-size: 1rem;
+	font-family: 'Pacifico', cursive;
+	padding-bottom: 50px;
+	
+}
+
+
+.row2{
+	background-color: #f4f90b;
+	color: white;
+}
+
+.madridd{
+	position: absolute;
+	left: 40px;
+	top: 50px;
+	width: 190px;
+	height: 190px;
+}
+
+.ronny{
+	position: absolute;
+	right: 60px;
+	top: 130px;
+	width: 200px;
+	height: 200px;
+}
